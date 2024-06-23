@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇮🇩 Muhammad Dava Fathurrahman](README.md)
+* [👋 Home](README.md)
 
 ## Writeup
 
