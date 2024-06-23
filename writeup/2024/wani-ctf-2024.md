@@ -8,7 +8,7 @@ description: >-
 
 ## Forensics
 
-### tiny\_usb \[100]
+### tiny\_usb \[116]
 
 What a small usb!
 
@@ -43,7 +43,7 @@ FLAG{hey\_i\_just\_bought\_a\_usb}
 
 </details>
 
-### Surveillance\_of\_sus \[100]
+### Surveillance\_of\_sus \[126]
 
 A PC is showing suspicious activity, possibly controlled by a malicious individual.
 
@@ -76,7 +76,7 @@ FLAG{RDP\_is\_useful\_yipeee}
 
 </details>
 
-### codebreaker \[100]
+### codebreaker \[140]
 
 I, the codebreaker, have broken the QR code!
 
@@ -116,7 +116,7 @@ FLAG{How\_scan-dalous}
 
 </details>
 
-### I\_wanna\_be\_a\_streamer \[100]
+### I\_wanna\_be\_a\_streamer \[169]
 
 Sorry Mom, I'll work as a streamer. Watch my stream once in a while. (H.264 is used for video encoding.)
 
@@ -157,7 +157,7 @@ FLAG{Th4nk\_y0u\_f0r\_W4tching}
 
 </details>
 
-### tiny\_10px \[100]
+### tiny\_10px \[180]
 
 What a small world!
 
@@ -247,7 +247,7 @@ FLAG{b1g\_en0ugh}
 
 </details>
 
-### mem\_search \[100]
+### mem\_search \[185]
 
 I found an unknown file, and upon opening it, it caused some strange behavior, so I took a memory dump!
 
@@ -411,7 +411,7 @@ FLAG{Dayum\_this\_is\_secret\_file}
 Web chall writeup soon&#x20;
 {% endhint %}
 
-### Bad\_Worker \[100]
+### Bad\_Worker \[120]
 
 We created a web application that works offline.\
 [https://web-bad-worker-lz56g6.wanictf.org](https://web-bad-worker-lz56g6.wanictf.org/)
