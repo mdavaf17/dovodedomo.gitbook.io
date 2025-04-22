@@ -67,11 +67,11 @@ While reading about the registry from Microsoft's [site](https://learn.microsoft
 
 So, I extracted the NTUSER.dat from `forensic_ruze.ad1\\\.\PHYSICALDRIVE0\Partition 1 [51198MB]\NONAME [NTFS]\[root]\Users[AD1]\sand-4ECC834FCF\NTUSER.DAT`. 
 
-![About Registry](../../.gitbook/assets/image%20(18).png)
+![NTUSER.dat Location](../../.gitbook/assets/image%20(18).png)
 
 Now, I explored the file with [registry viewer](https://www.exterro.com/ftk-product-downloads/registry-viewer-2-0-0). 
 
-![About Registry](../../.gitbook/assets/image%20(19).png)
+![Registry Value](../../.gitbook/assets/image%20(19).png)
 
 Based on the image above, we know that:
 
