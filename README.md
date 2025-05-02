@@ -6,9 +6,7 @@ description: CTF Writeups by @dovodedomo
 
 ## Welcome!
 
-Coba-coba pakai gitbook kayaknya lebih cepat nulis markdown dan hosting image.
-
-My name is Muhammad Dava Fathurrahman.
+[The old CTF's writeup](https://github.com/mdavaf17/CTF-Writeups).
 
 * [GitHub](https://github.com/mdavaf17/)
 * [LinkedIn](https://www.linkedin.com/in/mdavaf17/)

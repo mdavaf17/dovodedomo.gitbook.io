@@ -1,6 +1,7 @@
 ---
 description: >-
   GEMASTIK, or the National Student Performance in Information and Communication Technology, is a program organized by the Indonesian Talent Development Center, under the National Achievement Center, Ministry of Education, Culture, Research, and Technology.
+  
 ---
 
 # GEMASTIK CTF 2024
